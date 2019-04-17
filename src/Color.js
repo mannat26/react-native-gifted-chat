@@ -4,7 +4,7 @@ export default {
   defaultBlue: '#0084ff',
   leftBubbleBackground: '#f0f0f0',
   black: '#000',
-  grey : '#b2b2b2',
+  grey : 'grey',
   white: '#fff',
   carrot: '#e67e22',
   emerald: '#2ecc71',
